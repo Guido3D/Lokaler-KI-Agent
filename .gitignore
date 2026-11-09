@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csprojproj.user
+
+# Visual Studio cache/options
+*.VisualState.xml
+Project.lock.json
+
+# NuGet
+*.nupkg
+packages/
+!.gitkeep
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coverlet.xml
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
